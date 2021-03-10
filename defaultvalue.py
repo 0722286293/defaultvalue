@@ -1,0 +1,10 @@
+def kenya(county="Momnbasa"):
+  print("I ama from"  + county)
+kenya()
+kenya("Nairobi")
+kenya("Kiambu")
+kenya("Kisumu")
+kenya("machakos")
+kenya("Migori")
+kenya("kitui")
+kenya("kirinyaga")
